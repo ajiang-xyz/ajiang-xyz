@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ❔ Currently interested in cybersecurity, neuroscience, finance, and psychology
 
 💬 Contact me through discord (syossu#2202)
+
 📄 he/him pronouns
