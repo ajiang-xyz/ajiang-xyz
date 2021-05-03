@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 💬 Contact me through discord (syossu#2202)
 
 📄 he/him pronouns
+
+<p>&nbsp;</p>
+
+Credit to @melanbread on Instagram for the pfp
