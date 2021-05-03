@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;</p>
 
-Credit to @melanbread on Instagram for the pfp
+👐 Credit to @melanbread on Instagram for the pfp
