@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ajiang-xyz/ajiang-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Alex
+
+✏ I'm currently researching Pixel Value Differencing steganography and [creating my own RGB variants](https://github.com/ajiang-xyz/PVD-Steganography) of the original algorithm.
+
+❔ Currently interested in cybersecurity, neuroscience, finance, and psychology
+
+💬 Contact me through discord (syossu#2202)
+📄 he/him pronouns
