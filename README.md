@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Alex
 
-✏ I'm currently researching Pixel Value Differencing steganography and [creating my own RGB variants](https://github.com/ajiang-xyz/PVD-Steganography) of the original algorithm.
+✏ I'm currently writing my own text editor in node, html, and css (without abusing a deprecated yet still unremoved html attribute: content-editable). The code is currently private as I want the repo to contain working, non-prototypical code. 
+
+I've halted progress on my [Pixel Value Differencing steganography project](https://github.com/ajiang-xyz/PVD-Steganography), but I may pick it back up in the near future.
 
 ❔ Currently interested in cybersecurity, neuroscience, finance, and psychology
 
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
 📄 he/him pronouns
 
 <p>&nbsp;</p>
-
-👍 Credit to @matabeku on Instagram for the pfp
